@@ -2,10 +2,11 @@ RENCANA KONTEN WPU
 - JavaScript
    * ES6
    *Frameworks Java Script
-    ^ Anpluar
-    ^ React
+    ^ vue
+    ^ react
 - Struktur Fundamental
-  ^ Laravel
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - VLOGS
+- Python
